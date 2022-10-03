@@ -1,2 +1,1 @@
-# Pneumonia Classification with VGGNet
- 
+# Chest_x_ray_Detection
